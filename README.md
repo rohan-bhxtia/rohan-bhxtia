@@ -1,7 +1,70 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20Geeks%20👋%20Rohan%20Here!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=700&lines=I'm+a+newbie+to+tech,+learning+AI+at+super+speed" alt="Typing SVG" />
+</p>
 
 
 
-<img src="https://raw.githubusercontent.com/rohan-bhxtia/rohan-bhxtia/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+
+**AI Student | Engineer | Machine Learning Enthusiast**
+
+</div>
+
+---
+
+## 📚 Currently Learning
+- Machine Learning  
+- Python Libraries (Scikit learn, tensorflow & pytorch)  
+  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4">
+</p>
+
+
+## 🔨 Currently Building
+**CortX – Voice Automation Assistant**  
+> A smart automation system inspired by J.A.R.V.I.S.  
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4">
+</p>
+
+
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+ </p>
+
+
+
+
+
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4">
+</p>
+
+
+<p align="center">
+  <b>✨ "Building AI to build the future" ✨</b>
+</p>
+
 
 ###
 
