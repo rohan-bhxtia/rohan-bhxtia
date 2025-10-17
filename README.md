@@ -17,7 +17,7 @@ AI Student | Engineer | Machine Learning Enthusiast
 
 ## 📚 Currently Learning
 <div>
-  <code style="background:#6a11cb; color:white; padding:4px 8px; border-radius:4px;">Machine Learning</code>
+  <code style="background:#6a11cb; color:white; padding:4px 8px; border-radius:4px;">Machine Learning & DSA </code>
 </div>
 
 
