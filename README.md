@@ -25,8 +25,7 @@ AI Student | Engineer | Machine Learning Enthusiast
 
 
 ## 🔨 Currently Building
- <code style="background:#2575fc; color:white; padding:2px 6px; border-radius:4px;">CortX</code> – Voice Automation Assistant  
-> A smart automation system inspired by J.A.R.V.I.S.
+<code style="background:#ff0055; color:white; padding:4px 8px; border-radius:6px; font-weight:bold;">Building something crazy ⚡</code>
 
 
 
