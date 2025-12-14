@@ -15,12 +15,12 @@ AI Student | Engineer | Machine Learning Enthusiast
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4">
 </p>
 
-## 📚 Currently Learning
-<div>
+## 📚 Currently Exams are going.....
+<!-- <div>
   <code style="background:#6a11cb; color:white; padding:4px 8px; border-radius:4px;">Machine Learning</code>
    <code style="background:#6a11cb; color:white; padding:4px 8px; border-radius:4px;">DSA</code>
 
-</div>
+</div> -->
 
 
 
