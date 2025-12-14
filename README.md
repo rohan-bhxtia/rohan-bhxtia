@@ -24,8 +24,9 @@ AI Student | Engineer | Machine Learning Enthusiast
 
 
 
-## 🔨 Currently Building
+<!-- ## 🔨 Currently Building
 <code style="background:#ff0055; color:white; padding:4px 8px; border-radius:6px; font-weight:bold;">Mico-The Alien Ride</code>
+-->
 
 
 
