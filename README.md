@@ -59,7 +59,7 @@ AI Student | Engineer | Machine Learning Enthusiast
 
 
 
-## 📬 Reach Me
+## 📬 Reach Me .
 <p align="left">
   <a href="https://www.linkedin.com/in/rohan-375689223/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
