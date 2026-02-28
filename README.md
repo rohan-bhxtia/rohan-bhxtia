@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="font-size:70px; background: linear-gradient(to right, #6a11cb, #2575fc); -webkit-background-clip: text; color: transparent; font-weight:bold; margin:0;">
-    Hello Geeks !! I'm Rohan >>>>
+    Hello Geeks !! I'm Rohan >>>
   </h1>
 </div>
 
