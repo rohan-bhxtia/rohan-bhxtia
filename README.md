@@ -24,7 +24,7 @@ AI Student | Engineer | Machine Learning Enthusiast
 
 
 ## 🔨 Currently Building
-<code style="background:#ff0055; color:white; padding:4px 8px; border-radius:6px; font-weight:bold;">Databases</code>
+<code style="background:#ff0055; color:white; padding:4px 8px; border-radius:6px; font-weight:bold;">mystery</code>
 
 
 
