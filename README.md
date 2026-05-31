@@ -17,14 +17,14 @@ AI Student | Engineer | Machine Learning Enthusiast
 
 ## 📚 Currently Learning
 <div>
-  <code style="background:#6a11cb; color:white; padding:4px 8px; border-radius:4px;">LLMs</code>
+  <code style="background:#6a11cb; color:white; padding:4px 8px; border-radius:4px;">How an AI chatbot works</code>
 
 </div> 
 
 
 
 ## 🔨 Currently Building
-<code style="background:#ff0055; color:white; padding:4px 8px; border-radius:6px; font-weight:bold;">mystery</code>
+<code style="background:#ff0055; color:white; padding:4px 8px; border-radius:6px; font-weight:bold;">-- on Learning mode yet --</code>
 
 
 
