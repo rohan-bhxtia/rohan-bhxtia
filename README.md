@@ -17,7 +17,7 @@ AI Student | Engineer | Machine Learning Enthusiast
 
 ## 📚 Currently Learning
 <div>
-  <code style="background:#6a11cb; color:white; padding:4px 8px; border-radius:4px;">Working of AI chatbots</code>
+  <code style="background:#6a11cb; color:white; padding:4px 8px; border-radius:4px;">Working on AI chatbots</code>
 
 </div> 
 
