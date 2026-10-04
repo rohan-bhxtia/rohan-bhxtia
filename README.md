@@ -17,14 +17,14 @@ AI Student | Engineer | Machine Learning Enthusiast
 
 ## 📚 Currently Learning
 <div>
-  <code style="background:#6a11cb; color:white; padding:4px 8px; border-radius:4px;">Learning LLM core</code>
+  <code style="background:#6a11cb; color:white; padding:4px 8px; border-radius:4px;">Embeddings, Vector DBs & Basic RAG </code>
 
 </div> 
 
 
 
 ## 🔨 Currently Building
-<code style="background:#ff0055; color:white; padding:4px 8px; border-radius:6px; font-weight:bold;">-- Finance Tool --</code>
+<code style="background:#ff0055; color:white; padding:4px 8px; border-radius:6px; font-weight:bold;">Document Q&A RAG Assistant</code>
 
 
 
