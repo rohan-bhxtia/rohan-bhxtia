@@ -5,7 +5,7 @@
 
 🔴 🟡 🟢 &nbsp;&nbsp;&nbsp; <code>rohan@dev — ~/portfolio — zsh</code>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1100&pause=400&color=7EE787&background=0D1117&multiline=true&repeat=false&width=820&height=220&lines=%24+whoami;Rohan+Bhatia+%C2%B7+GenAI+%2F+LLM+Engineer;%24+cat+now.txt;%E2%86%92+building+ClauseLens%3A+AI+contract+risk+analyzer;%24+ls+shipped%2F;llm-router%2F+++gc-ledger%2F+++gitaverse-icicc24.pdf" alt="$ whoami → Rohan Bhatia · GenAI / LLM Engineer · building ClauseLens" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1100&pause=400&color=7EE787&background=0D1117&multiline=true&repeat=false&width=820&height=220&lines=%24+whoami;Rohan+Bhatia+%C2%B7+GenAI+%2F+LLM+Engineer;%24+cat+now.txt;%E2%86%92+building+ClauseLens%3A+AI+rental+lease+analyzer;%24+ls+shipped%2F;llm-router%2F+++gc-ledger%2F+++gitaverse-icicc24.pdf" alt="$ whoami → Rohan Bhatia · GenAI / LLM Engineer · building ClauseLens" />
 
 </td>
 </tr>
@@ -59,17 +59,28 @@ class Rohan:
 
 ## 🔨 Now Building: ClauseLens 🔍
 
-> **AI-powered contract clause risk analyzer.** Drop in a contract, and ClauseLens breaks it into clauses, flags the risky ones, and explains *why* in plain English.
+> **AI-powered rental agreement analyzer for Indian residential leases.** Give it a lease PDF, and ClauseLens answers 15 fixed questions about it (deposit terms, late fees and more). Every answer comes with the exact quoted line and page number as proof, or is marked as not stated.
 
 It's my flagship project, and it fuses my **contract-intelligence background (Sirion)** with **LLM engineering**.
 
-- 📑 Parse contracts and split them into individual clauses
-- 🏷️ Classify each clause (indemnity, termination, liability, confidentiality, …)
-- 🚩 Score risk and highlight red-flag clauses
-- 💬 Explain each risk in plain language and suggest safer wording
-- 🔀 Run on a **new, refined LLM router** I'm building for it from scratch
+- 🧾 **Every fact = answer + exact quote + page + status** (`found` / `not_stated` / `unclear`)
+- 🔎 Hybrid search finds the right clauses; a separate check confirms each quote really exists in the PDF
+- 🚩 Risk flags come from plain Python rules (the LLM extracts, the code judges)
+- 🔀 Runs on a **new, refined LLM router** I'm building for it from scratch
+- ⚖️ Informational only, not legal advice
 
-**10-day sprint** · progress logged in `PROGRESS.md`
+**Where it stands:**
+
+| Day | What gets built | Status |
+|:---:|---|:---:|
+| 1 | 15-question schema, 5 synthetic test leases with 75 hand-checked answers, tests | ✅ Done |
+| 2 | Read the PDF and split it into clauses with page numbers (Docling) | 🔄 In progress |
+| 3 | LLM router for Gemini: retry, backup model, cache, cost log | ⏳ Next |
+| 4 | Find the right clauses for a question (search) + database | ⏳ Planned |
+| 5 | Gemini answers the 15 questions, scored against the checked answers | ⏳ Planned |
+| 6–10 | Quote verification, risk rules, Q&A with citations, accuracy report, web page, Docker | ⏳ Planned |
+
+**10 build days + 3 buffer days** · progress logged in `PROGRESS.md`
 
 ![](https://geps.dev/progress/10)
 
@@ -94,7 +105,7 @@ It's my flagship project, and it fuses my **contract-intelligence background (Si
 |:---:|---|---|---|
 | **01** | 🔀 **[llm-router](https://github.com/rohan-bhxtia/llm-router)** | Multi-provider LLM interface, adapters, mocked testing | ![](https://geps.dev/progress/100) |
 | **02** | 💸 **[GC-Ledger](https://github.com/rohan-bhxtia/GC-Ledger)** | LLM extraction pipeline: expenses, commitments & events from WhatsApp chats | ![](https://geps.dev/progress/100) |
-| **03** | 🔍 **ClauseLens** | Document intelligence, clause classification, risk scoring, refined LLM router | ![](https://geps.dev/progress/10) |
+| **03** | 🔍 **ClauseLens** | Document intelligence: PDF parsing, typed extraction, hybrid search, quote verification, refined LLM router | ![](https://geps.dev/progress/10) |
 | **04** | 🔎 **Next up:** RAG / hybrid search project | Embeddings, vector DBs, retrieval | ![](https://geps.dev/progress/0) |
 | **05** | 🤖 **Next up:** AI agent project | Tool use, multi-step agents | ![](https://geps.dev/progress/0) |
 
