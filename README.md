@@ -111,14 +111,6 @@ It's my flagship project, and it fuses my **contract-intelligence background (Si
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4">
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-bhxtia&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4">
-
 ## 📬 Let's Connect
 
 <p align="center">
