@@ -74,16 +74,15 @@ It's my flagship project, and it fuses my **contract-intelligence background (Si
 | Day | What gets built | Status |
 |:---:|---|:---:|
 | 1 | 15-question schema, 5 synthetic test leases with 75 hand-checked answers, tests | ✅ Done |
-| 2 | Read the PDF and split it into clauses with page numbers (Docling) | 🔄 In progress |
-| 3 | LLM router for Gemini: retry, backup model, cache, cost log | ⏳ Next |
-| 4 | Find the right clauses for a question (search) + database | ⏳ Planned |
+| 2 | Read the PDF and split it into clauses with page numbers (Docling) | ✅ Done |
+| 3 | LLM router for Gemini: retry, backup model, cache, cost log | 🔄 In progress |
+| 4 | Find the right clauses for a question (search) + database | ⏳ Next |
 | 5 | Gemini answers the 15 questions, scored against the checked answers | ⏳ Planned |
 | 6–10 | Quote verification, risk rules, Q&A with citations, accuracy report, web page, Docker | ⏳ Planned |
 
 **10 build days + 3 buffer days** · progress logged in `PROGRESS.md`
 
-![](https://geps.dev/progress/10)
-
+![](https://geps.dev/progress/20)
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4">
 
 ## 📄 Published Research
