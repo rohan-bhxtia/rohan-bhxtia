@@ -64,9 +64,9 @@ class Rohan:
 It's my flagship project, and it fuses my **contract-intelligence background (Sirion)** with **LLM engineering**.
 
 - 🧾 **Every fact = answer + exact quote + page + status** (`found` / `not_stated` / `unclear`)
-- 🔎 Hybrid search finds the right clauses; a separate check confirms each quote really exists in the PDF
+- 🔎 Search finds the right clauses (and I measure how often it does); a separate check confirms each quote really exists in the PDF
 - 🚩 Risk flags come from plain Python rules (the LLM extracts, the code judges)
-- 🔀 Runs on a **new, refined LLM router** I'm building for it from scratch
+- 🔀 Runs on a **custom LLM router** I built from scratch for it: retry, backup model and response cache
 - ⚖️ Informational only, not legal advice
 
 **Where it stands:**
@@ -75,14 +75,14 @@ It's my flagship project, and it fuses my **contract-intelligence background (Si
 |:---:|---|:---:|
 | 1 | 15-question schema, 5 synthetic test leases with 75 hand-checked answers, tests | ✅ Done |
 | 2 | Read the PDF and split it into clauses with page numbers (Docling) | ✅ Done |
-| 3 | LLM router for Gemini: retry, backup model, cache, cost log | 🔄 In progress |
-| 4 | Find the right clauses for a question (search) + database | ⏳ Next |
-| 5 | Gemini answers the 15 questions, scored against the checked answers | ⏳ Planned |
+| 3 | LLM router for Gemini: retry, backup model, cache | ✅ Done |
+| 4 | Find the right clauses for a question (search + vector database), measured with hit@k | 🔄 In progress |
+| 5 | Gemini answers the 15 questions, scored against the checked answers | ⏳ Next |
 | 6–10 | Quote verification, risk rules, Q&A with citations, accuracy report, web page, Docker | ⏳ Planned |
 
 **10 build days + 3 buffer days** · progress logged in `PROGRESS.md`
 
-![](https://geps.dev/progress/20)
+![](https://geps.dev/progress/30)
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4">
 
 ## 📄 Published Research
@@ -101,10 +101,10 @@ It's my flagship project, and it fuses my **contract-intelligence background (Si
 ## 📈 Growth Log
 
 | # | Project | What I learned / will learn | Status |
-|:---:|---|---|---|
+|:---:|---|---|:---:|
 | **01** | 🔀 **[llm-router](https://github.com/rohan-bhxtia/llm-router)** | Multi-provider LLM interface, adapters, mocked testing | ![](https://geps.dev/progress/100) |
 | **02** | 💸 **[GC-Ledger](https://github.com/rohan-bhxtia/GC-Ledger)** | LLM extraction pipeline: expenses, commitments & events from WhatsApp chats | ![](https://geps.dev/progress/100) |
-| **03** | 🔍 **ClauseLens** | Document intelligence: PDF parsing, typed extraction, hybrid search, quote verification, refined LLM router | ![](https://geps.dev/progress/10) |
+| **03** | 🔍 **ClauseLens** | Document intelligence: PDF parsing, typed extraction, hybrid search, quote verification, refined LLM router | ![](https://geps.dev/progress/30) |
 | **04** | 🔎 **Next up:** RAG / hybrid search project | Embeddings, vector DBs, retrieval | ![](https://geps.dev/progress/0) |
 | **05** | 🤖 **Next up:** AI agent project | Tool use, multi-step agents | ![](https://geps.dev/progress/0) |
 
