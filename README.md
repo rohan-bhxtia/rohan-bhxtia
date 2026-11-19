@@ -76,13 +76,13 @@ It's my flagship project, and it fuses my **contract-intelligence background (Si
 | 1 | 15-question schema, 5 synthetic test leases with 75 hand-checked answers, tests | ✅ Done |
 | 2 | Read the PDF and split it into clauses with page numbers (Docling) | ✅ Done |
 | 3 | LLM router for Gemini: retry, backup model, cache | ✅ Done |
-| 4 | Find the right clauses for a question (search + vector database), measured with hit@k | 🔄 In progress |
+| 4 | Find the right clauses for a question (embeddings + vector database), measured with hit@k | ✅ Done |
 | 5 | Gemini answers the 15 questions, scored against the checked answers | ⏳ Next |
 | 6–10 | Quote verification, risk rules, Q&A with citations, accuracy report, web page, Docker | ⏳ Planned |
 
 **10 build days + 3 buffer days** · progress logged in `PROGRESS.md`
 
-![](https://geps.dev/progress/30)
+![](https://geps.dev/progress/40)
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4">
 
 ## 📄 Published Research
@@ -104,7 +104,7 @@ It's my flagship project, and it fuses my **contract-intelligence background (Si
 |:---:|---|---|:---:|
 | **01** | 🔀 **[llm-router](https://github.com/rohan-bhxtia/llm-router)** | Multi-provider LLM interface, adapters, mocked testing | ![](https://geps.dev/progress/100) |
 | **02** | 💸 **[GC-Ledger](https://github.com/rohan-bhxtia/GC-Ledger)** | LLM extraction pipeline: expenses, commitments & events from WhatsApp chats | ![](https://geps.dev/progress/100) |
-| **03** | 🔍 **ClauseLens** | Document intelligence: PDF parsing, typed extraction, hybrid search, quote verification, refined LLM router | ![](https://geps.dev/progress/30) |
+| **03** | 🔍 **ClauseLens** | Document intelligence: PDF parsing, typed extraction, embedding search with a vector DB, quote verification, custom LLM router | ![](https://geps.dev/progress/40) |
 | **04** | 🔎 **Next up:** RAG / hybrid search project | Embeddings, vector DBs, retrieval | ![](https://geps.dev/progress/0) |
 | **05** | 🤖 **Next up:** AI agent project | Tool use, multi-step agents | ![](https://geps.dev/progress/0) |
 
